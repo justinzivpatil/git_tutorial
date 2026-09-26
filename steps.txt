@@ -1,0 +1,15 @@
+step 1)
+First check git status
+step 2)
+git config --global user.email "justinzivjustin@gmail.com"
+step 3)
+git config --global user.name "justinzivpatil"
+step 4) :
+initialize the git repository 
+git init
+-- git branch is the command to see every branch in the git
+step 5): git add . 
+this will add all to the repository
+
+step 6): git commit -m "initial commit"
+this will commit to repository
