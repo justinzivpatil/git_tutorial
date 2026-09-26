@@ -26,3 +26,5 @@ to create a new branch the command is
 git checkout -b branch_name
 OR
 git switch -c branch_name
+
+step 8)
