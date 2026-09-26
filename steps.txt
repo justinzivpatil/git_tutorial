@@ -13,3 +13,5 @@ this will add all to the repository
 
 step 6): git commit -m "initial commit"
 this will commit to repository
+
+head is the latest commit made on branch
