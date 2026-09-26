@@ -17,3 +17,12 @@ this will commit to repository
 head is the latest commit made on branch
 
 for the logs use command git log --oneline
+
+step 7):- Branches
+To create a new branch first we have to go for master branch
+git switch master
+
+to create a new branch the command is
+git checkout -b branch_name
+OR
+git switch -c branch_name
