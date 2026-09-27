@@ -9,4 +9,8 @@ Master here , i ll also make contibution to ptoject.
 He he I am learning
 Hey I am fixing this bug
 
+<<<<<<< HEAD
 I am ingesting batch data
+=======
+I am ingesting big data
+>>>>>>> f594e35 (ingest big data)
