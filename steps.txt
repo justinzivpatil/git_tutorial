@@ -27,4 +27,5 @@ git checkout -b branch_name
 OR
 git switch -c branch_name
 
-step 8)
+step 8) to do the time traveling 
+git reset --hard HEAD-1 or git reset --hard git_id
